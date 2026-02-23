@@ -1,0 +1,16 @@
+{
+  "id": "solar-system-scene",
+  "name": "Solar System Scene",
+  "description": "Exported from embedded Flutter VisMan demo scene \"solar-system-scene\".",
+  "tags": [
+    "scene",
+    "solar",
+    "system"
+  ],
+  "source": "flutter-embedded-demo",
+  "generatedAt": "2026-02-23T08:11:45.557246Z",
+  "sceneFile": "visman.json",
+  "objectCount": 3,
+  "hasPhysics": false,
+  "has3D": true
+}
